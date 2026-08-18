@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/poojab17/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/poojab17/dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/poojab17/dsa/tree/master/0402-remove-k-digits) |
 | [1528-shuffle-string](https://github.com/poojab17/dsa/tree/master/1528-shuffle-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/poojab17/dsa/tree/master/2351-first-letter-to-appear-twice) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/poojab17/dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/poojab17/dsa/tree/master/0402-remove-k-digits) |
 | [0946-validate-stack-sequences](https://github.com/poojab17/dsa/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/poojab17/dsa/tree/master/0402-remove-k-digits) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/poojab17/dsa/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
