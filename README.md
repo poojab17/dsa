@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/poojab17/dsa/tree/master/0402-remove-k-digits) |
 | [1528-shuffle-string](https://github.com/poojab17/dsa/tree/master/1528-shuffle-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/poojab17/dsa/tree/master/2351-first-letter-to-appear-twice) |
+| [3174-clear-digits](https://github.com/poojab17/dsa/tree/master/3174-clear-digits) |
 ## Queue
 |  |
 | ------- |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/poojab17/dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/poojab17/dsa/tree/master/0402-remove-k-digits) |
 | [0946-validate-stack-sequences](https://github.com/poojab17/dsa/tree/master/0946-validate-stack-sequences) |
+| [3174-clear-digits](https://github.com/poojab17/dsa/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/poojab17/dsa/tree/master/0946-validate-stack-sequences) |
+| [3174-clear-digits](https://github.com/poojab17/dsa/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
