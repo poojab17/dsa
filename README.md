@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/poojab17/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poojab17/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/poojab17/dsa/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/poojab17/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/poojab17/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/poojab17/dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/poojab17/dsa/tree/master/0402-remove-k-digits) |
 | [0946-validate-stack-sequences](https://github.com/poojab17/dsa/tree/master/0946-validate-stack-sequences) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/poojab17/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/poojab17/dsa/tree/master/0402-remove-k-digits) |
 ## Recursion
 |  |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poojab17/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/poojab17/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
