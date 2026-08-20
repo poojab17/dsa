@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/poojab17/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poojab17/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/poojab17/dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -118,12 +119,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/poojab17/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poojab17/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/poojab17/dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poojab17/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/poojab17/dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/poojab17/dsa/tree/master/0084-largest-rectangle-in-histogram) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/poojab17/dsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
